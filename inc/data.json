@@ -1,0 +1,84 @@
+{
+   "organization_name": "Gamma Nu Eta",
+   "pages": [
+      {
+         "page_name": "Home",
+         "content": {
+            "intro": "Gamma Nu Eta was established as the National Information Technology Honor Society to recognize and promote leadership and excellence in the study of IT."
+         },
+         "target_page": "./index.html"
+      },
+      {
+         "page_name": "About Us",
+         "content": {
+            "about_us": "Gamma Nu Eta is the IT Honor Society founded at RPI in 2000. Our goal as an organization is to encourage and help students to perform their best through activities and events, like the Company Expose, that we host. We also host events like resume reviews, weekly tutoring and finals prep sessions. Each year we accept a small group of the best ITWS students. Our members work with the RPI faculty and companies to host and organize the events and improve the ITWS community."
+         },
+         "target_page": "./about.html"
+      },
+      {
+         "page_name": "Events",
+         "content": {
+            "services_events": [
+               {
+                  "name": "Resume Review",
+                  "description": "Members of GNH can review your Resume and provide suggestions on how to improve.",
+                  "type": "service",
+                  "image-link": ""
+               },
+               {
+                  "name": "Weekly Tutoring",
+                  "description": "GNH holds weekly tutoring sessions for several classes every Wednesday.",
+                  "type": "event",
+                  "image-link": "img/tutoring.jpg"
+               },
+               {
+                  "name": "Finals Review Prep",
+                  "description": "Along with tutoring, GNH hosts finals week preparation tests to help you prepare to succeed on your exams.",
+                  "type": "service",
+                  "image-link": ""
+               },
+               {
+                  "name":"Alumni Newsletter",
+                  "description": "The Alumni Newsletter is a once a year mailing that GNH sends to alumni updating them about the goings on in ITWS and RPI at large.",
+                  "type": "service",
+                  "image-link": ""
+               },
+               {
+                  "name":"Company Expose",
+                  "description": "The Company Expose is the largest ITWS recruitment event. It features students and recruiters engaging in casual games and activities.",
+                  "type": "event",
+                  "image-link": "img/IMG_3530.jpg"
+               }
+            ]
+         },
+         "target_page": "./events.html"
+      }
+   ],
+   "social_media": [
+      {
+         "name": "Twitter",
+         "link": "",
+         "icon_link": ""
+      },
+      {
+         "name": "Facebook",
+         "link": "",
+         "icon_link": ""
+      },
+      {
+         "name": "TikTok",
+         "link": "",
+         "icon_link": ""
+      },
+      {
+         "name": "Instagram",
+         "link": "",
+         "icon_link": ""
+      },
+      {
+         "name": "LinkedIn",
+         "link": "",
+         "icon_link": ""
+      }
+   ]
+}
